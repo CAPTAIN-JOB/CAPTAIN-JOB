@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CAPTAIN-JOB
-- 👀 I’m interested in new software`s bun js Next 14 CMS payload 
+- 👀 I’m interested in New Frameworks bun js And Next 14 CMS
 - 🌱 I’m currently learning  bun js python and mobile Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  -linkedIn => JOB KIPTOO
