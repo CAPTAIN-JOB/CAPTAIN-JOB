@@ -3,7 +3,7 @@
 CAPTAIN-JOB/CAPTAIN-JOB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>Hi there 👋, I'm Job .</h1>
+<h1>Hi there 👋, I'm JOB .</h1>
 
 <!-- Header Links -->
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://portfolio-phi-wine-88.vercel.ap)
