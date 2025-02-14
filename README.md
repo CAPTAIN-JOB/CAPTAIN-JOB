@@ -4,7 +4,7 @@ CAPTAIN-JOB/CAPTAIN-JOB is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-<h1 >Hi there 👋, I'm Job .</h1>
+<h1>Hi there 👋, I'm Job .</h1>
 
 <!-- Header Links -->
 
