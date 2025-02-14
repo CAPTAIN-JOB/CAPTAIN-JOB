@@ -80,4 +80,30 @@ You can click the Preview link to take a look at your changes.
 	</p>
 </div>
 
+<!-- Current Stats card -->
+</br>
+<h2>Current Stats</h2>
+
+<div>
+<a href="https://github.com/CAPTAIN-JOB">
+      <img alt="Job's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=captain-job&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
+    </a>
+  <a href="https://github.com/CAPTAIN-JOB">
+<img src="https://github-readme-stats.vercel.app/api?username=captain-job&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
+    </a>
+</div>
+
+<!-- Activity Graph card -->
+</br>
+</br>
+<h2>Activity Graph</h2>
+
+![Job's Graph](https://github-readme-activity-graph.vercel.app/graph?username=captain-job&custom_title=job's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
+![GitHub followers](https://img.shields.io/github/followers/captain-job?style=flat&logo=github&color=05122A&labelColor=05122A)
+![Profile Views](https://komarev.com/ghpvc/?username=captain-job&style=flat&labelolor=05122A&color=05122A)
+
 
