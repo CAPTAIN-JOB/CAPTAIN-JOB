@@ -3,26 +3,30 @@
 CAPTAIN-JOB/CAPTAIN-JOB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>Hi there 👋, I'm Job .</h1>
+<div align="center">
+<h1 >Hi there 👋, I'm Job .</h1>
 
 <!-- Header Links -->
+
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://portfolio-phi-wine-88.vercel.ap)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/CAPTAIN-JOB)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kiptoojob/)
+</div>
 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 
 <!-- Short Bio -->
 <!-- </samp> for  -->
-<p>Welcome to my profile! </br> I'm a <b>Full-Stack Developer</b> passionate about building high-performance applications. I specialize in <b>React, TypeScript, and Node.js</b>, and I'm constantly exploring new technologies to refine my skills. </br> My interests also include <b>backend architecture, system design, and blockchain development</b>. I'm always up for a challenge and love optimizing workflows with <b>Neovim</b> and Linux.</p>
+<p align="center"> Welcome to my profile! </br> I'm a <b>Full-Stack Developer</b> passionate about building high-performance applications. I specialize in <b>React, TypeScript, and Node.js</b>, and I'm constantly exploring new technologies to refine my skills. </br> My interests also include <b>backend architecture, system design, and blockchain development</b>. I'm always up for a challenge and love optimizing workflows with <b>Neovim</b> and Linux.</p>
 
 
 
 <!-- Tech Stack -->
 </br>
-<h2>Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
-<div>
+<div align="center">
 	<p>
 		<kbd>
 			<kbd>Frontend</kbd>
@@ -35,6 +39,20 @@ You can click the Preview link to take a look at your changes.
 			<img alt="Redux" src="https://img.shields.io/badge/Redux-05122A?style=flat&logo=redux">
 			<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-05122A?style=flat&logo=graphql">
 			<img alt="React Query" src="https://img.shields.io/badge/React%20Query-05122A?style=flat&logo=reactquery">
+		</kbd>
+	</p>
+	<p>
+		<kbd>
+			<kbd>Tools</kbd>
+			<br>
+			<br>
+			<img alt="Neovim" src="https://img.shields.io/badge/Neovim-05122A?style=flat&logo=neovim">
+			<img alt="Postman" src="https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman">
+			<img alt="Figma" src="https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma">
+			<img alt="Jest" src="https://img.shields.io/badge/Jest-05122A?style=flat&logo=jest">
+			<img alt="GitHub" src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github">
+			<img alt="Vercel" src="https://img.shields.io/badge/Vercel-05122A?style=flat&logo=vercel">
+			<img alt="Vercel" src="https://img.shields.io/badge/Render-05122A?style=flat&logo=render">
 		</kbd>
 	</p>
 	<p>
@@ -64,27 +82,16 @@ You can click the Preview link to take a look at your changes.
 			<img alt="Nginx" src="https://img.shields.io/badge/Ngrok-05122A?style=flat&logo=ngrok">
 		</kbd>
 	</p>
-	<p>
-		<kbd>
-			<kbd>Tools</kbd>
-			<br>
-			<br>
-			<img alt="Neovim" src="https://img.shields.io/badge/Neovim-05122A?style=flat&logo=neovim">
-			<img alt="Postman" src="https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman">
-			<img alt="Figma" src="https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma">
-			<img alt="Jest" src="https://img.shields.io/badge/Jest-05122A?style=flat&logo=jest">
-			<img alt="GitHub" src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github">
-			<img alt="Vercel" src="https://img.shields.io/badge/Vercel-05122A?style=flat&logo=vercel">
-			<img alt="Vercel" src="https://img.shields.io/badge/Render-05122A?style=flat&logo=render">
-		</kbd>
-	</p>
+	
 </div>
+
+
 
 <!-- Current Stats card -->
 </br>
-<h2>Current Stats</h2>
+<h2 align="center" >Current Stats</h2>
 
-<div>
+<div align="center">
 <a href="https://github.com/CAPTAIN-JOB">
       <img alt="Job's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=captain-job&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
     </a>
@@ -96,7 +103,8 @@ You can click the Preview link to take a look at your changes.
 <!-- Activity Graph card -->
 </br>
 </br>
-<h2>Activity Graph</h2>
+<div align="center" >
+<h2">Activity Graph</h2>
 
 ![Job's Graph](https://github-readme-activity-graph.vercel.app/graph?username=captain-job&custom_title=job's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
@@ -105,5 +113,5 @@ You can click the Preview link to take a look at your changes.
 ![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
 ![GitHub followers](https://img.shields.io/github/followers/captain-job?style=flat&logo=github&color=05122A&labelColor=05122A)
 ![Profile Views](https://komarev.com/ghpvc/?username=captain-job&style=flat&labelolor=05122A&color=05122A)
-
+</div>
 
