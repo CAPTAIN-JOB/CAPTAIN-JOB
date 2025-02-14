@@ -108,7 +108,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Job's Graph](https://github-readme-activity-graph.vercel.app/graph?username=captain-job&custom_title=job's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
 ![GitHub followers](https://img.shields.io/github/followers/captain-job?style=flat&logo=github&color=05122A&labelColor=05122A)
