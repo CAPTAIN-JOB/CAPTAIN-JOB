@@ -18,7 +18,9 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Short Bio -->
 <!-- </samp> for  -->
-<p align="center"> Welcome to my profile! </br> I'm a <b>Full-Stack Developer</b> passionate about building high-performance applications. I specialize in <b>React, TypeScript, and Node.js</b>, and I'm constantly exploring new technologies to refine my skills. </br> My interests also include <b>backend architecture, system design, and blockchain development</b>. I'm always up for a challenge and love optimizing workflows with <b>Neovim</b> and Linux.</p>
+
+<h3 align="center">Welcome to my profile! </h3> </br>
+<p> I'm a <b>Full-Stack Developer</b> passionate about building high-performance applications. I specialize in <b>React, TypeScript, and Node.js</b>, and I'm constantly exploring new technologies to refine my skills. </br> My interests also include <b>backend architecture, system design, and blockchain development</b>. I'm always up for a challenge and love optimizing workflows with <b>Neovim</b> and Linux.</p>
 
 
 
